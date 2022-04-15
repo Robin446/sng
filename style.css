@@ -1,0 +1,43 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 10px;
+}
+.note{
+    font-size: 13px;
+    color: tomato;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_volume{
+    float:right;
+}
+
+.div_song_img,.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song,#volume{
+    font-size: 24px;
+    margin: 15px;
+}
+
+.div_song{
+    float:left;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+canvas{
+    border: 5px solid teal;
+    border-radius: 20px;
+}
